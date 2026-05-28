@@ -26,16 +26,16 @@ Only available for AIDA group of Aplied Mathematics
 
 ### First semester
 1. [x] [Исследование кривых обучения и регуляризации](bfu_ml_labs/Semester_1/Lab_4/lab_4.ipynb)
-2. [ ] [Применение модели решающих деревьев в задачах классификации](bfu_ml_labs/Semester_1/Lab_5_1/lab_5_1.ipynb)
-3. [ ] [Применение ансамблевых моделей на базе решающих деревьев в задачах классификации](bfu_ml_labs/Semester_1/Lab_5_2/lab_5_2.ipynb)
-4. [ ] [Изучение  процесса подбора гиперпараметров модели.](bfu_ml_labs/Semester_1/Lab_5_3/lab_5_3.ipynb)
+2. [x] [Применение модели решающих деревьев в задачах классификации](bfu_ml_labs/Semester_1/Lab_5_1/lab_5_1.ipynb)
+3. [x] [Применение ансамблевых моделей на базе решающих деревьев в задачах классификации](bfu_ml_labs/Semester_1/Lab_5_2/lab_5_2.ipynb)
+4. [x] [Изучение  процесса подбора гиперпараметров модели.](bfu_ml_labs/Semester_1/Lab_5_3/lab_5_3.ipynb)
 
 
 ### Second semester
 
 1. [x] (bfu_ml_labs/Semester_2/Lab_1/lab1.ipynb)
-2. [ ] (bfu_ml_labs/Semester_2/Lab_2/lab2.ipynb)
-3. [ ] (bfu_ml_labs/Semester_2/Lab_3/lab3.ipynb)
+2. [x] (bfu_ml_labs/Semester_2/Lab_2/lab2.ipynb)
+3. [x] (bfu_ml_labs/Semester_2/Lab_3/lab3.ipynb)
 
 
 
